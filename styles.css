@@ -1,0 +1,58 @@
+body {
+    margin: 0px;
+    line-height: 3;
+}
+
+main {
+    background-color: beige;
+    margin: 0px;
+}
+
+footer {
+    background-color: rgb(29, 29, 29);
+}
+
+p {
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+}
+
+.pWithSpacing {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+section {
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+
+#map {
+    background-color: rgb(80, 80, 80);
+    border-radius: 25px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.poem {
+    text-align: left;
+    line-height: 4;
+}
+
+#map p{
+    color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#center {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    margin: 10px
+}
+
+
