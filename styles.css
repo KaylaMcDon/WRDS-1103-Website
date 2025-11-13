@@ -24,8 +24,12 @@ p {
 }
 
 section {
-    margin-top: 200px;
-    margin-bottom: 200px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+#intro {
+    padding-bottom: 100px   ;
 }
 
 #map {
@@ -33,6 +37,7 @@ section {
     border-radius: 25px;
     margin-left: 30%;
     margin-right: 30%;
+    margin-top: 200px;
 }
 
 .poem {
@@ -55,4 +60,34 @@ button {
     margin: 10px
 }
 
+#leftOrangeBar {
+    background-color: rgb(255, 101, 46);
+    margin-right: 35%;
+    border-top-right-radius: 30%;
+    border-bottom-right-radius: 30%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    line-height: 0px;
 
+}
+
+#rightOrangeBar {
+    background-color: rgb(255, 101, 46);
+    margin-left: 35%;
+    border-top-left-radius: 30%;
+    border-bottom-left-radius: 30%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+
+img {
+    margin: 0px;
+    margin-left: 20%;
+    height: 400px;
+}
+
+a {
+    color: white;
+    margin-left: 20%;
+}
