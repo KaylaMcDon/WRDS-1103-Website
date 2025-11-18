@@ -38,6 +38,8 @@ section {
     margin-left: 30%;
     margin-right: 30%;
     margin-top: 200px;
+    padding-top: 40px;
+    padding-bottom: 30px;
 }
 
 .poem {
@@ -54,6 +56,7 @@ section {
 #center {
     display: flex;
     justify-content: center;
+    margin-bottom: 0px;
 }
 
 button {
@@ -90,4 +93,23 @@ img {
 a {
     color: white;
     margin-left: 20%;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+#citedWorks {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 0px;
+}
+
+#citedWorks p {
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
